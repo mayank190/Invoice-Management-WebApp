@@ -21,3 +21,7 @@ Build a web application where the users in the account department can:
 
 ##### JDBC for database connection
 ##### Servlet for handling the http requests
+
+
+![image](https://user-images.githubusercontent.com/77227296/165530027-e2436a8a-edb2-4a90-82cc-22826dcbfb70.png)
+
